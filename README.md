@@ -22,4 +22,4 @@ pip install pandas
 8. Enter filename when prompted
 9. Enter number of phases when prompted
 10. Name each phase when prompted
-11. Enjoy the results! (You may have to enlarge your window to see full table)
+11. Enjoy the results! (You may have to enlarge your window or zoom out to see full table)
