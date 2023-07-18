@@ -23,3 +23,7 @@ pip install pandas
 9. Enter number of phases when prompted
 10. Name each phase when prompted
 11. Enjoy the results! (You may have to enlarge your window or zoom out to see full table)
+
+# Example
+<img width="889" alt="maudexample" src="https://github.com/ryk5/MaudParameterView/assets/92228671/35308be8-444d-40e0-a8bd-66b57853d0bf">
+
