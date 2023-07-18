@@ -1,7 +1,7 @@
 from tabulate import tabulate
 import pandas as pd
 def main():
-    filename = input("Name of text file (with .txt): ")
+    filename = "parameters.txt"
     num = int(input("How many phases are you analyzing?: "))
     names = []
     lattices = []
