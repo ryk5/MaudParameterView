@@ -1,7 +1,7 @@
 from tabulate import tabulate
 import pandas as pd
+import os
 def main():
-    filename = "parameters.txt"
     num = int(input("How many phases are you analyzing?: "))
     names = []
     lattices = []
@@ -15,7 +15,7 @@ def main():
     for i in range(num):
         temp = input("Name of element #" + str(i) + ": ")
         names.append(temp)
-    r = open(filename)
+    r = open("parameters.txt")
     for n in r.readlines():
         if "_pd_phase_atom_%" in n:
             arr = n.split()
